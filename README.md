@@ -1,9 +1,16 @@
 ## Hi there 👋
 
+I'm **Islem Medjadj** — a CS student passionate about **UI/UX design** and **front-end development**.
 
-I'm islem medjadj, a front-end web developer and computer science student passionate about creating responsive, modern websites. I design in Figma and develop using WordPress and custom HTML, CSS, and JavaScript.
+### 💻 Skills
+- UI/UX Design: Figma
+- Front-end: HTML, CSS
+- CMS: WordPress
+- Tools: Git & GitHub
 
+### 🌐 Portfolio
+[mdjislem.github.io/Portfolio](https://mdjislem.github.io/Portfolio/)
 
-🤝 Let's Connect
-💼 Need a website? DM me on Instagram or LinkedIn
-📬 Reach me via email (medjadjislem2@gmail.com)
+### 📫 Contact
+📧 medjadjislem2@gmail.com
+
